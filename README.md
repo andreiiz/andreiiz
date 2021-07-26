@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @andreiiz, computer enginering student
-- 👀 I’m interested in enterprise and mobile application ...
-- 🌱 I’m currently learning back end developing
+- 👋 Hi, I’m @andreiiz, computer enginering student.
+- 👀 I’m interested in enterprise application and back end development
+- 🌱 I’m currently learning back end development
 - 💞️ I’m looking to collaborate on ...
 -
 
