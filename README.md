@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @andreiiz, computer enginering student.
-- 👀 I’m interested in enterprise application and back end development
+- 👋 Hi, I’m @andreiiz, computer engineering student.
+- 👀 I’m interested in enterprise applications and back end development
 - 🌱 I’m currently learning back end development
 - 💞️ I’m looking to collaborate on ...
 -
